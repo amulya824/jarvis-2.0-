@@ -1,0 +1,3 @@
+9 nov added the news fuction but unable to add 
+// the stop function like when i say tau or friday it should stop the news function:
+and listen to the other fucntio, currently doing more reacherach on it 
